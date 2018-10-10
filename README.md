@@ -5,3 +5,6 @@ http://3dprintingcenter.net/2016/06/03/fabscan-how-to-build-a-3d-scanner-do-it-y
 
 
 http://wolfgangschmidt.info/simple3dscan-download/  - stažení softwaru
+
+
+https://howtomechatronics.com/tutorials/arduino/how-to-control-stepper-motor-with-a4988-driver-and-arduino/ - ovládání a zapojení serva
