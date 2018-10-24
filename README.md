@@ -8,3 +8,5 @@ http://wolfgangschmidt.info/simple3dscan-download/  - stažení softwaru
 
 
 https://howtomechatronics.com/tutorials/arduino/how-to-control-stepper-motor-with-a4988-driver-and-arduino/ - ovládání a zapojení serva
+
+http://www.ardumotive.com/arduino-3d-scanner.html- link na sestavení boxu
