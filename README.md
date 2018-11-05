@@ -14,4 +14,8 @@ http://www.ardumotive.com/arduino-3d-scanner.html- link na sestavení boxu
 Osnova: 
 
 1. sesnámení se s projektem - proč jsem si jej vybral 
-2.sesznam všech součástí které budu potřebovat 
+2. seznam všech součástí které budu potřebovat 
+3. zapojení a roztočení motoru + kód
+4. sestavení boxu z krabice
+5. instalace fabscanu na linux 
+6. zkompletování projektu 
