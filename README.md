@@ -19,3 +19,5 @@ Osnova:
 4. sestavení boxu z krabice
 5. instalace fabscanu na linux 
 6. zkompletování projektu 
+7. Vzinklé problémy a chyby při tvorbě projektu 
+8. Možné úpravy a vylepšení do budoucna 
