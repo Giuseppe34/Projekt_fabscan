@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name krokovyradic-rescue)(type Legacy)(uri ${KIPRJMOD}/krokovyradic-rescue.lib)(options "")(descr ""))
+)
