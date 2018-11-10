@@ -1,7 +1,0 @@
-1. Seznamení se s projektem 
-
-1. Tenhle projekt jsem našel na internetu a rozhodl jsem se pro něj, protože mě zaujala představa zkusit si vytvořit svůj vlastní 3D scanner. FabScan je open-source systém, jehož tvůrcem je Francis Engelmann, který ho zlepšuje již pět let. V současné době projekt řídí Mario Lukas. Díky němu byla vytvořena nejnovější verze zařízení - Fabscan Pi, založená na Raspberry Pi. Největší výhodou celého ekosystému FabScan je speciální verze Linux Ubuntu, kterou můžete nainstalovat na flash disk a spustit na libovolném počítači, když ji potřebujete. Obsahuje mnoho potřebných programů, které můžete použít nejen na 3D skenování, ale také třeba na navržení 3D tisku. FabScan má také výhodu v tom že není drahý, což byl také jeden z mých požadavků na zadání projektu, je potřeba jen pár hardwarpvých součástek. Všechny součásti které jsem použil budou popsány později potrobně.
-
-Jak teda vlasně celý projekt funguje? 
-
-Vezmeme libovolný objekt, ale velikostně zhruba odpovídající podstavci na kterém bude umístěn. Objekt položíme na podstavec, který se bude otáčet. Všechny komponenty včetně snímané věci musí být umístěné ve tmě kvůli laserovému světlu. Laser není klasický bodový ale přímkový laser. Webová kamera snímá laser, který svítí na objekt. Po každém zaznamenání obrázku se objekt otočí dokud se neotočí o 360°. Poté se snímky pošlou do počítače na kterém běží již zmíněný software - FabScan a ten z těhle snímků poskládá výsledný objekt. Ten je možná poté prohlédnout přímo v editoru. 
