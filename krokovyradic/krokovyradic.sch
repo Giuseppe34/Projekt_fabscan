@@ -96,8 +96,6 @@ Wire Wire Line
 Wire Wire Line
 	3600 4500 3750 4500
 Wire Wire Line
-	5650 3550 6550 3550
-Wire Wire Line
 	6550 3550 6550 3300
 Wire Wire Line
 	6550 3300 6800 3300
@@ -163,4 +161,33 @@ Wire Wire Line
 Wire Wire Line
 	8650 3800 8650 3950
 Connection ~ 8650 3950
+Wire Wire Line
+	6550 3550 5800 3550
+Wire Wire Line
+	5800 3550 5800 3650
+Wire Wire Line
+	5800 3650 5650 3650
+$Comp
+L Device:Laserdiode_1C2A LD?
+U 1 1 5BEAAD8B
+P 7200 5150
+F 0 "LD?" H 7150 5435 50  0000 C CNN
+F 1 "Laserdiode_1C2A" H 7150 5344 50  0000 C CNN
+F 2 "" H 7100 5125 50  0001 C CNN
+F 3 "~" H 7230 4950 50  0001 C CNN
+	1    7200 5150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6900 5150 3450 5150
+Wire Wire Line
+	3450 5150 3450 4600
+Wire Wire Line
+	3450 4600 3750 4600
+Wire Wire Line
+	7400 5150 7750 5150
+Wire Wire Line
+	7750 5150 7750 4500
+Wire Wire Line
+	7750 4500 5650 4500
 $EndSCHEMATC
