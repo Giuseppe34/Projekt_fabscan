@@ -2,9 +2,9 @@
 Závěrečný projekt, ročníková práce
 
 Obsahuje:
-	-kod v Platformiu
+	-kod pro Arduino
 	-dokumentaci
-	-schema v KiCadu 
+	-schema v KiCadu a Fritzingu
 
 zdroje:
 
